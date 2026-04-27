@@ -1,8 +1,9 @@
 # pytest cache directory #
 
-This directory contains data from the pytest's cache plugin,
-which provides the `--lf` and `--ff` options, as well as the `cache` fixture.
+Этот каталог содержит данные из плагина кэширования pytest,
+что обеспечивает `--lf` и `--ff` опции, так же как `cache` структуры.
 
 **Do not** commit this to version control.
 
-See [the docs](https://docs.pytest.org/en/stable/how-to/cache.html) for more information.
+перейти по ссылке [the docs](https://docs.pytest.org/en/stable/how-to/cache.html) для подробностей
+
