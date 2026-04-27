@@ -1,0 +1,15 @@
+[
+  "tests/test_filtering.py::test_filter_by_date",
+  "tests/test_filtering.py::test_filter_by_temperature_above",
+  "tests/test_filtering.py::test_filter_combined",
+  "tests/test_filtering.py::test_filter_with_invalid_temp",
+  "tests/test_repository.py::test_load_corrupted_json_returns_empty",
+  "tests/test_repository.py::test_load_missing_file_returns_empty",
+  "tests/test_repository.py::test_save_and_load_records",
+  "tests/test_repository.py::test_saved_json_is_list",
+  "tests/test_validation.py::test_parse_temperature_invalid",
+  "tests/test_validation.py::test_parse_temperature_valid",
+  "tests/test_validation.py::test_validate_date_invalid",
+  "tests/test_validation.py::test_validate_date_valid",
+  "tests/test_validation.py::test_validate_description_invalid"
+]
